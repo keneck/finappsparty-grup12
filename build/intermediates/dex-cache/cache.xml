@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/pre-dexed/debug/classes-50d2a7ce618f80090181391ea6031a9dfae32d1b.jar"
+        jar="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6804efbb78d7facc2e1aa107c7342bee83afae45"/>
+    <item
+        dex="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/pre-dexed/debug/classes-75358a36e61e11ff6bbec806f54d143d2c255b96.jar"
+        jar="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="711351f12980fffdff7f1b0be9303ac6611affd8"/>
+    <item
+        dex="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-eca33e3a3f0190737b1bf0106a814410a9e7b139.jar"
+        jar="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-25be7a5214de7768723377e465f4d43f4e4af6c9.jar"
+        jar="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/pre-dexed/debug/classes-54b6e1714b97103832980cefc03ca31c104be97b.jar"
+        jar="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/pre-dexed/debug/classes-e0b456b1e3d21a3f4ccc7ccf09e6d2ad33cc487b.jar"
+        jar="/Users/aLe/AndroidStudioProjects/EsPaisParaViejos/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>

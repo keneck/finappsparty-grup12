@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main"
+    tools:deviceIds="wear_square"
+    android:background="#ffa2000e">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Funcionalitats Demo"
+        android:textSize="30px"
+        android:textColor="#ffffffff"
+        android:gravity="center" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/useCasesList"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ff000000" />
+    />
+</LinearLayout>
